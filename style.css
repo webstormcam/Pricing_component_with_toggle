@@ -4,4 +4,20 @@
 
 body{
     font-family: 'Montserrat', sans-serif;
+     background-image: url('imgs/bg-top.svg');
+ background-position: top right -13.5rem;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+.content-holder{
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    font-size: 32px;
+    color: #6E728E;
 }
