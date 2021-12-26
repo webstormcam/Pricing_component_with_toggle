@@ -21,3 +21,10 @@ h1{
     font-size: 32px;
     color: #6E728E;
 }
+
+@media screen and (min-width:1440px) {
+    body{
+        background-image: url('imgs/bg-top.svg'), url('imgs/bg-bottom.svg');
+        background-position: top -5rem right 1rem, bottom 10rem left 10rem;
+    }
+}
