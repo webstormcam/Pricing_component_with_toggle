@@ -125,6 +125,7 @@ h1{
   .box1{
     width: 327px;
     background-color: #fff;
+    margin-top: 3rem;
   }
 
   .box2{
@@ -134,6 +135,14 @@ h1{
 
   .box3{
     width: 327px;
+    background-color: #fff;
+  }
+
+  .price{
+    font-size: 72px;
+    color: #4A4D60;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
   }
 
 @media screen and (min-width:1440px) {
