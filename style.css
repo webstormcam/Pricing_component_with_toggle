@@ -144,6 +144,18 @@ h1{
     background-color: #A2A7F0;
   }
 
+  .box2 h2 {
+    color: #fff;
+  }
+
+  .box2 .price{
+    color: #fff;
+  }
+
+  .box2 p{
+    color: #fff;
+  }
+
   .box3{
     width: 327px;
     background-color: #fff;
