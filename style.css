@@ -203,6 +203,11 @@ h1{
     font-size: 13px;
   }
 
+  .white-button{
+    background-color: #fff;
+    color:#A2A7F0 ;
+  }
+
 @media screen and (min-width:1440px) {
     body{
         background-image: url('imgs/bg-top.svg'), url('imgs/bg-bottom.svg');
