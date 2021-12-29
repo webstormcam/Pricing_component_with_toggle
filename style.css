@@ -186,11 +186,17 @@ h1{
   }
 
   .statholder-white{
-    
+    border-top: 1px solid #fff;
   }
+
+ 
 
   .bottomstat{
     border-bottom: 1px solid #6e728e62;
+  }
+
+  .statholder-white-bottom{
+    border-bottom: 1px solid #fff;
   }
 
   .button{
