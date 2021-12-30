@@ -239,6 +239,30 @@ h1{
   .box-area{
     display: flex;
     flex-direction: row;
+    margin-top: 2rem;
+  }
+
+  .box{
+    height: 453px;
+    
+  }
+
+
+  .box2{
+   
+    margin-top: 3rem;
+    padding-top: 1rem;
+  }
+
+  .box1{
+    /* -webkit-box-shadow: none;
+    box-shadow: none; */
+  }
+
+  .box3{
+    margin-top: 3rem;
+    /* -webkit-box-shadow: none;
+    box-shadow: none; */
   }
 
 
