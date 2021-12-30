@@ -245,6 +245,7 @@ h1{
 
   .box{
     height: 453px;
+    width: 350px;
     
   }
 
@@ -253,7 +254,7 @@ h1{
    margin-bottom: 2rem;
     margin-top: 3rem;
    height: 501px;
-  
+
    z-index: 500;
     
   }
