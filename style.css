@@ -235,4 +235,11 @@ h1{
         background-image: url('imgs/bg-top.svg'), url('imgs/bg-bottom.svg');
         background-position: top -5rem right 1rem, top 40rem left;
     }
+
+  .box-area{
+    display: flex;
+    flex-direction: row;
+  }
+
+
 }
