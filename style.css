@@ -173,6 +173,12 @@ h1{
 
   .dollar{
     font-size: 40px;
+    color: #4A4D60;
+  }
+
+  .whitedollar{
+    font-size: 40px;
+    color: #fff;
   }
 
   .statholder{
@@ -229,6 +235,11 @@ h1{
     color: #fff;
     background-color: #A2A7F0;
     border: 1px solid #fff;
+  }
+
+  .pricing{
+    display: flex;
+    align-items: center;
   }
 
 @media screen and (min-width:1330px) {
