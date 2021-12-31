@@ -7,15 +7,15 @@ let master = document.getElementById('master');
 
 function myFunction(){
    
-    if(toggle.checked === true){
-        console.log('TRUE')
-       basic.innerHTML ='19.99'
-       pro.innerHTML ='24.99'
-       master.innerHTML ='39.99'
-    } else{
+    if(toggle.checked === false){
         console.log('FALSE')
-        basic.innerHTML ='199.99'
-        pro.innerHTML ='249.99'
-        master.innerHTML = '399.99'
+       basic.innerHTML ='199.99'
+       pro.innerHTML ='249.99'
+       master.innerHTML ='399.99'
+    } else{
+        console.log('TRUE')
+        basic.innerHTML ='19.99'
+        pro.innerHTML ='24.99'
+        master.innerHTML = '39.99'
     }
 }
